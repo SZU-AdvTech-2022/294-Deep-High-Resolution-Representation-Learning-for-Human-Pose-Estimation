@@ -1,0 +1,7 @@
+@inproceedings{REPO-295,
+    author = "Sun, Ke and Xiao, Bin and Liu, Dong and Wang, Jingdong",
+    booktitle = "Proceedings of the IEEE/CVF conference on computer vision and pattern recognition",
+    pages = "5693--5703",
+    title = "{Deep High-Resolution Representation Learning for Human Pose Estimation}",
+    year = "2019"
+}
